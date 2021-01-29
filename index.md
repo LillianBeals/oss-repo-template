@@ -10,5 +10,8 @@ My name is Lillian Beals. I am a senior at Rensaelaer Polytechnic Institute majo
 
 [Photo](labs/lab-01/Introduction_Photo.jpg)  
 
+## Labs
+[Lab 1](labs/lab-01/lab01.md)
+
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
