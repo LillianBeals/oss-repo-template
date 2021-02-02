@@ -8,7 +8,7 @@
   ## Free Culture
   
 # **Linux**
-
+[Screenshot](https://github.com/LillianBeals/oss-repo-template/blob/master/labs/lab-01/man_tree.png)
 # Regex
 
 # Snap or Blocky
