@@ -9,4 +9,5 @@
 ## Part 3
 [Forked Repository](https://github.com/LillianBeals/PullReq)  
 [git diff Screenshot](images/gitdiff.png)  
-[git tag Screenshot](images/gittag.png)
+[git tag Screenshot](images/gittag.png)  
+[Project Ideas Repository](https://github.com/LillianBeals/OSSProjectIdeas)
