@@ -5,3 +5,8 @@
 ## Part 2
 [Spoon-Knife Repository](https://github.com/LillianBeals/Spoon-Knife)  
 [Learning Git Branching Screenshots](images/learngitscreenshot.png)
+
+## Part 3
+[Forked Repository](https://github.com/LillianBeals/PullReq)  
+[git diff Screenshot](images/gitdiff.png)  
+[git tag Screenshot](images/gittag.png)
