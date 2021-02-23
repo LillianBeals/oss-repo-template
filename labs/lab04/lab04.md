@@ -26,7 +26,7 @@
 
 6. Linux uses the GPL v2, as it was created specifically to be a free software. [It's principle author Linus Torvalds decided to create an operating system due to the licensiving MINIX, restricting it to educational use.](https://en.wikipedia.org/wiki/Linux#Creation) Linux utilizes GNU applications because the freely available code was more advantagous to the operating system. 
 
-7.
+7. [Repository](https://github.com/LillianBeals/Lab04Q7/blob/main/README.md)
 
 8.  
 | Website | Liscense Present | License |
